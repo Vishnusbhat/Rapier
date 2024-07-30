@@ -9,4 +9,3 @@ function App() {
 }
 
 export default App;
-git config --global user.email "vishnusbhat3@gmail.com"
